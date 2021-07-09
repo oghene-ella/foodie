@@ -268,7 +268,6 @@ module.exports = {
       ],
     },
     fontSize: {
-      cunt: ['7rem', { lineHeight: '1' }],
       xs: ['0.75rem', { lineHeight: '1rem' }],
       sm: ['0.875rem', { lineHeight: '1.25rem' }],
       base: ['1rem', { lineHeight: '1.5rem' }],

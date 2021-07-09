@@ -12,7 +12,10 @@ module.exports = {
       },
       fontFamily:{
         body:['Playfair Display']
-      }
+      },
+      fontSize:{
+        cunt: ['7rem']
+      },
     },
   },
   variants: {
